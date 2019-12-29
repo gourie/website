@@ -64,5 +64,6 @@ user_groups:
 ---
 
 I am a computer scientist working in the IT Artificial Intelligence team at UCB Pharma where I focus on computer vision problems in the medical imaging domain. 
-I am currently working on a research project that aims at opportunistically screening spine-containing CT images for osteoporotic vertebral fractures to support the early detection of patients with osteoporosis and avoid secondary fractures.
+I am currently working on the [Bonebot research project](https://www.ucb.com/patients/magazine/detail/article/Meet-the-Bonebot-our-AI-solution-to-automatically-detect-fractured-vertebrae)
+that aims at opportunistically screening spine-containing CT images for osteoporotic vertebral fractures to support the early detection of patients with osteoporosis and avoid secondary fractures.
 My research focuses on incorporating anatomical prior knowledge into deep neural networks and out-of-distribution generalization.
