@@ -15,7 +15,7 @@ role: Computer Scientist
 # Organizations/Affiliations
 organizations:
 - name: UCB Pharma
-  url: "www.ucb.com"
+  url: "https://www.ucb.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include incorporating prior knowledge into deep neural networks and out-of-distribution generalization.
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:joerinicolaes@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jnicolaes
@@ -63,7 +63,5 @@ user_groups:
 - Visitors
 ---
 
-I am a computer scientist working in the IT Artificial Intelligence team at UCB Pharma where I focus on computer vision problems in the medical imaging domain. 
-I am currently working on the [Bonebot research project](https://www.ucb.com/patients/magazine/detail/article/Meet-the-Bonebot-our-AI-solution-to-automatically-detect-fractured-vertebrae)
-that aims at opportunistically screening spine-containing CT images for osteoporotic vertebral fractures to support the early detection of patients with osteoporosis and avoid secondary fractures.
+I am a computer scientist working in the IT Artificial Intelligence team at UCB Pharma where I work on computer vision problems in the medical imaging domain. 
 My research focuses on incorporating anatomical prior knowledge into deep neural networks and out-of-distribution generalization.
