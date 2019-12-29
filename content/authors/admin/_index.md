@@ -64,5 +64,5 @@ user_groups:
 ---
 
 I am a computer scientist in the IT Artificial Intelligence team at UCB Pharma where I work on computer vision problems in the medical imaging domain. 
-I am also a second-year PhD student at ESAT/PSI department of the KU Leuven spending two days per week in the Medical Imaging Research Center at UZ Leuven.
+I am also a second-year PhD student at the [ESAT/PSI department](https://www.esat.kuleuven.be/psi) of the KU Leuven spending two days per week in the [Medical Imaging Research Center](https://mirc.uzleuven.be/MedicalImagingCenter/about.php) at UZ Leuven.
 My research focuses on incorporating anatomical prior knowledge into deep neural networks and out-of-distribution generalization.
