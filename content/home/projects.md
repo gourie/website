@@ -75,3 +75,6 @@ subtitle = ""
  css_class = ""
 +++
 
+
+I am currently working on the [Bonebot research project](https://www.ucb.com/patients/magazine/detail/article/Meet-the-Bonebot-our-AI-solution-to-automatically-detect-fractured-vertebrae)
+that aims at opportunistically screening spine-containing CT images for osteoporotic vertebral fractures to support the early detection of patients with osteoporosis and avoid secondary fractures.
