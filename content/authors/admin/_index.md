@@ -63,4 +63,6 @@ user_groups:
 - Visitors
 ---
 
-Joeri Nicolaes is a computer scientist at UCB Pharma focusing on computer vision tasks in the medical imaging domain. He is currently conducting research to apply machine learning techniques for detecting fractures in patient images.
+I am a computer scientist working in the IT Artificial Intelligence team at UCB Pharma where I focus on computer vision problems in the medical imaging domain. 
+I am currently working on a research project that aims at opportunistically screening spine-containing CT images for osteoporotic vertebral fractures to support the early detection of patients with osteoporosis and avoid secondary fractures.
+My research focuses on incorporating anatomical prior knowledge into deep neural networks and out-of-distribution generalization.
