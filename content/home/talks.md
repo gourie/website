@@ -38,7 +38,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -69,10 +69,12 @@ subtitle = ""
 +++
 
 1. [Detection of vertebral fractures in CT using 3D Convolutional Neural Networks](https://csi2019.wordpress.com/program/)
-  :date: Thursday 17 October 2019, 9:30
-  :office: MICCAI CSI Workshop & Challenge, Shenzhen, China
+    
+    :date: Thursday 17 October 2019, 9:30
+    :office: MICCAI CSI Workshop & Challenge, Shenzhen, China
 
 2. [Automated Detection of Vertebral Fractures in CT Using 3D Convolutional Neural Networks](http://archive.rsna.org/2019/19021482.pdf)
-  :date: Sunday 1 December 2019, 11:05
-  :office: RSNA Science Session, Chicago, US
+
+    :date: Sunday 1 December 2019, 11:05
+    :office: RSNA Science Session, Chicago, US
 
