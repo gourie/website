@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -71,4 +71,4 @@ subtitle = ""
 
 ### Supervision of master thesis
 - Data augmentation guided by prediction uncertainty (KU Leuven Honors Program project) | <span style="color:grey">2019</span>
-- Does transforming a biomedical image training set to hold a shape bias improve performance on medical image analysis tasks? | <span style="color:grey">2019-2020</span>
+- Does transforming a biomedical image training set to hold a shape bias improve performance on medical image analysis tasks? | <span style="color:grey">2019 - now</span>

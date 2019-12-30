@@ -16,7 +16,6 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-Thursday 17 October 2019, 9:30
 date: 2019-10-17T09:30:00+06:00
 date_end: 2019-10-17T09:45:00+06:00
 all_day: false

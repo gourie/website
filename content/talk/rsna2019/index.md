@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Automated Detection of Vertebral Fractures in CT Using 3D Convolutional Neural Networks"
-event: RSNA Science Session with Keynote: Informatics (Artificial Intelligence: Cutting Edge Artificial Intelligence)
+event: "RSNA Science Session with Keynote: Informatics (Artificial Intelligence: Cutting Edge Artificial Intelligence)"
 event_url: http://archive.rsna.org/2019/19021482.pdf
 location: Chicago, US
 address:
@@ -49,8 +49,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: http://archive.rsna.org/2019/19021482.pdf
+url_video: https://rsna2019.rsna.org/virtual/video.cfm?id=19021482
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Note: the video requires an RSNA virtual meeting subscription
