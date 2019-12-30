@@ -67,3 +67,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+* [Detection of vertebral fractures in CT using 3D Convolutional Neural Networks](https://csi2019.wordpress.com/program/)
+:date: 17 October 2019, 9:30
+:office: MICCAI CSI Workshop & Challenge, Shenzhen, China
+* Another item
