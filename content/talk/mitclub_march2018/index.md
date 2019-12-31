@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Medical analytics and ethics"
-event: MIT-club Belgium, a private group of 40 CIO's in Belgium
+event: "MIT-club Belgium (a private group of 40 CIO's in Belgium): Scary AI seminar"
 event_url: http://www.mitclub.be
 location: Diegem, Belgium
 address:
