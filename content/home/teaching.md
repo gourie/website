@@ -67,7 +67,7 @@ subtitle = ""
 +++
 
 ### Academic courses
-- Computer vision: course and exam projects | <span style="color:grey">2018 - now</span>
+- Computer vision ([H02A5A](https://onderwijsaanbod.kuleuven.be/2019/syllabi/e/H02A5AE.htm#activetab=doelstellingen_idm9310752)): course and exam projects | <span style="color:grey">2018 - now</span>
 
 ### Supervision of master thesis
 - Data augmentation guided by prediction uncertainty (KU Leuven Honors Program project) | <span style="color:grey">2019</span>
