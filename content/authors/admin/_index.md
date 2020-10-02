@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ucb.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include incorporating prior knowledge into deep neural networks and out-of-distribution generalization.
+bio: My current research focuses on incorporating prior knowledge into deep neural networks and exploring how to make neural segmentation nets more shape-aware.
 
 interests:
 - Artificial Intelligence
@@ -65,5 +65,5 @@ user_groups:
 
 I am a computer scientist in the IT Artificial Intelligence team at UCB Pharma where I work on computer vision problems in the medical imaging domain. 
 I am also a second-year PhD student at the [ESAT/PSI department](https://www.esat.kuleuven.be/psi) of the KU Leuven spending two days per week in the [Medical Imaging Research Center](https://mirc.uzleuven.be/MedicalImagingCenter/about.php) at the University Hospitals Leuven.
-My current research focuses on incorporating prior knowledge into deep neural networks and out-of-distribution generalization. 
-I am addicted to learning new things and love reading about how the human brain works (currently reading Thinking Fast and Slow by D. Kahneman).
+My current research focuses on incorporating prior knowledge into deep neural networks and exploring how to make neural segmentation nets more shape-aware. 
+I am addicted to learning new things and love reading about how the human brain works (just finished reading Thinking Fast and Slow by D. Kahneman with great interest).
