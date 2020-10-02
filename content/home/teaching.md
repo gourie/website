@@ -71,4 +71,4 @@ subtitle = ""
 
 ### Supervision of master thesis
 - Data augmentation guided by prediction uncertainty (KU Leuven Honors Program project) | <span style="color:grey">2019</span>
-- Does transforming a biomedical image training set to hold a shape bias improve performance on medical image analysis tasks? | <span style="color:grey">2019 - now</span>
+- Does a shape-aware CNN model improve medical image segmentation performance? | <span style="color:grey">2019</span>
