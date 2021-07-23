@@ -21,8 +21,8 @@ organizations:
 bio: My current research focuses on incorporating prior knowledge into deep neural networks and exploring how to make neural segmentation nets more shape-aware.
 
 interests:
-- Artificial Intelligence
-- Computer Vision
+- machine learning 
+- computer vision
 
 education:
   courses:
@@ -64,6 +64,6 @@ user_groups:
 ---
 
 I am a computer scientist in the IT Artificial Intelligence team at UCB Pharma where I work on computer vision problems in the medical imaging domain. 
-I am also a second-year PhD student at the [ESAT/PSI department](https://www.esat.kuleuven.be/psi) of the KU Leuven spending two days per week in the [Medical Imaging Research Center](https://mirc.uzleuven.be/MedicalImagingCenter/about.php) at the University Hospitals Leuven.
-My current research focuses on incorporating prior knowledge into deep neural networks and exploring how to make neural segmentation nets more shape-aware. 
-I am addicted to learning new things and love reading about how the human brain works (just finished reading Thinking Fast and Slow by D. Kahneman with great interest).
+I am also a third-year PhD student at the [ESAT/PSI department](https://www.esat.kuleuven.be/psi) of the KU Leuven spending two days per week in the [Medical Imaging Research Center](https://mirc.uzleuven.be/MedicalImagingCenter/about.php) at the University Hospitals Leuven.
+My current research focuses on robust object detection in 3D images, shape-aware image segmentation and reasoning on which features have been learned by CNNs.  
+In my free time, I love reading about how the human brain and cell biology works, coach a youth soccer team and play some piano.

@@ -1,5 +1,5 @@
 ---
-title: Talksss
+title: Talks
 
 # View.
 #   1 = List
