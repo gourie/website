@@ -37,10 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:joerinicolaes@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jnicolaes
+  link: 'mailto:joerinicolaes@gmail.com' 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.be/citations?user=dGNthnwAAAAJ&hl=nl
@@ -66,4 +63,4 @@ user_groups:
 I am a computer scientist in the IT Artificial Intelligence team at UCB Pharma where I work on computer vision problems in the medical imaging domain. 
 I am also a third-year PhD student at the [ESAT/PSI department](https://www.esat.kuleuven.be/psi) of the KU Leuven spending two days per week in the [Medical Imaging Research Center](https://mirc.uzleuven.be/MedicalImagingCenter/about.php) at the University Hospitals Leuven.
 My current research focuses on robust object detection in 3D images, shape-aware image segmentation and reasoning on which features have been learned by CNNs.  
-In my free time, I love reading about how the human brain and cell biology works, coach a youth soccer team and play some piano.
+In my free time, I love reading on the human brain and cell biology, coach a youth soccer team and play some piano.
