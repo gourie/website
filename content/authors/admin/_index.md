@@ -62,5 +62,5 @@ user_groups:
 
 I am a computer scientist in the IT Artificial Intelligence team at UCB Pharma where I work on computer vision problems in the medical imaging domain. 
 I am also a third-year PhD student at the [ESAT/PSI department](https://www.esat.kuleuven.be/psi) of the KU Leuven spending two days per week in the [Medical Imaging Research Center](https://mirc.uzleuven.be/MedicalImagingCenter/about.php) at the University Hospitals Leuven.
-My current research focuses on robust object detection in 3D images, shape-aware image segmentation and reasoning on which features have been learned by CNNs.  
-In my free time, I love reading on the human brain and cell biology, coach a youth soccer team and play some piano.
+My current research focuses on robust object detection in 3D images, shape-aware image segmentation and understanding how different loss terms influence what CNNs learn.  
+In my free time, I love reading books on science and history, coach a youth soccer team, play some piano and last but not least enjoy life with my family & friends.

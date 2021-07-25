@@ -29,11 +29,11 @@ projects: []
 ---
 
 During my long summer break I decided to start writing about my learnings on this website. Although I hope that my ramblings
-are helpful for others, I have to admit that my motivations to do so are selfish:
+are helpful for others, I have to admit that my motivations to do so are selfish because:
 1. you truly master a new concept when you are able to explain it succinctly in your own words
 2. I have enjoyed reading over 85 papers in the last 2 years but lack an easy way to revisit my summary learnings
 from these efforts
-3. It's time to practise my English writing skills a bit 
+3. it's time to practise my English writing skills a bit 
 
 Now that you know **why** I am adding more online content let's spend a minute to talk about **what** I intend to write about.
 The short answer is "anything that I studied recently in my professional sphere of interest". This starts from computer 
@@ -50,7 +50,7 @@ some when I am able to free up some time. More importantly, I decided to increas
 more time thinking about what I have read (favoring depth over breadth).
 
 Finally, I would like to ask you, the reader, a favour. Please reach out to me for questions or comments on my content. 
-I am specifically keen to find out whether my writings are clear and discuss your views or experiments with the discussed
+I am specifically keen to find out whether my writings are clear and hear your views on or experiments with the posted
 content. Although this format is static and one-way, I would love to start a conversation with anyone interested!! 
 
 
